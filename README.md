@@ -4,7 +4,7 @@
 
 ```html
 <!--引用js-->
-<script src="./lib/index.js"></script>
+<script src="./dist/index.js"></script>
 
 <!--可选：默认是 body 节点-->
 <div id="box" style="position: relative;width: 300px;height: 500px;"></div>
