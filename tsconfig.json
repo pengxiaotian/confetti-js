@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "declaration": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "jsx": "preserve",
+    "noLib": false,
+    "target": "es3",
+    "sourceMap": true,
+    "lib": [
+      "ESNext", "DOM"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "outDir": "./lib",
+  },
+  "exclude": [
+    "node_modules",
+    "lib",
+    "es"
+  ]
+ }
+

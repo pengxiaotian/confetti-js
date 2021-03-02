@@ -1,0 +1,23 @@
+{
+  "name": "confetti-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pengxiaotian/confetti-js.git"
+  },
+  "files": [
+    "css",
+    "js",
+    "lib"
+  ],
+  "author": "pengxiaotian",
+  "license": "MIT"
+}
