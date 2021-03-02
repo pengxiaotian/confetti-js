@@ -32,4 +32,4 @@
 ```
 
 ## 示例
-[demo.html](./demo.html)
+[Demo](https://pengxiaotian.github.io/confetti-js)
