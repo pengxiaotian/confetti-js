@@ -14,11 +14,11 @@
       "ESNext", "DOM"
     ],
     "allowSyntheticDefaultImports": true,
-    "outDir": "./lib",
+    "outDir": "dist",
   },
   "exclude": [
     "node_modules",
-    "lib",
+    "dist",
     "es"
   ]
  }
